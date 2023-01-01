@@ -1,0 +1,5 @@
+To build this aurisys library, please follow the steps as below:
+1. check building enviroment in Makefile, such as the PLATFORM, tool verison, ALPS_PATH, etc.
+2. "make clean; make"
+
+Then the libdemocpp.a will be installed into destnation folder automatically.
